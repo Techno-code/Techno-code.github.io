@@ -1,0 +1,27 @@
+/* Comment, and start of CSS File */
+p {
+    color: slateblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+img {
+    width: 600px;
+    height: 400px;
+}
+
+.red_text {
+    color: red;
+}
+
+.monospace {
+    font-family: monospace;
+}
+
+#text_selection {
+    margin-left: 50px;
+}
+
+#title_text {
+    font-size: 40px;
+    font-weight: 2000;
+}
