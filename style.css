@@ -25,11 +25,11 @@ img {
     font-size: 40px;
     font-weight: 2000;
 }
-
 body {
-    font-family: 'Work Sans', sans-serif;
-}
+    font-family: 'Cardo', serif;
+   }
    
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Crimson Text', serif;
-}
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+   }
