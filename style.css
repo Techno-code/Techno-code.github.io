@@ -52,7 +52,10 @@ img {
     font-size: 15px;
 }
   
-
+#about {
+	font-family: 'Oxygen';
+	font-weight: bold;
+}
 
 
 
