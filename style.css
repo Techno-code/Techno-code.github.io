@@ -37,7 +37,7 @@ img {
     font-family: monospace;
 }
 
-#main {
+.main {
     margin-left: 140px;
 	padding: 0px 10px;
 }
@@ -56,6 +56,7 @@ img {
 	font-family: 'Oxygen';
 	font-weight: bold;
 }
+
 
 
 
