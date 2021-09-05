@@ -1,6 +1,10 @@
 /* Comment, and start of CSS File */
 
 
+html {
+  scroll-behavior: smooth;
+}
+
 img {
     width: 600px;
     height: 400px;
